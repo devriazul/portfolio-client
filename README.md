@@ -17,7 +17,7 @@
 
 ## How to install
 - Step 1: Clone the repository - 
-https://github.com/riktasiddique/protfolio.git
+https://github.com/devriazul/portfolio-client.git
 
 - Step 2: Install Laravel
  Composer install
